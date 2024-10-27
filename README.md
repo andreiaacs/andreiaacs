@@ -15,6 +15,11 @@
 - **DevOps**: CI/CD, AWS
 - **Ferramentas de Colaboração**: Git, GitHub, JIRA, Confluence
 
+
+### Analytics/Estatísticas ⚙️
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreiaacs&theme=dracula&langs_count=3&locale=pt-br)
+
 ### 🌐 Vamos nos Conectar! | Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/andreiaalencar/)
 
