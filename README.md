@@ -17,11 +17,11 @@
 
 ### 📊 Analytics/Estatísticas
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreiaacs&theme=default&langs_count=3&locale=pt-br)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreiaacs&theme=dark&langs_count=3&locale=pt-br)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=andreiaacs&show_icons=true&theme=radical&hide=contribs,prs&locale=pt-br)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andreiaacs)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andreiaacs&show_icons=true&theme=radical&hide=contribs,prs&locale=pt-br)
 
 
 ### 🌐 Vamos nos Conectar! | Let's connect!
