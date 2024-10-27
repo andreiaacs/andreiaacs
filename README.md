@@ -1,4 +1,4 @@
-# Olá, eu sou a Déia! 👋 | Hello, I´m Déia! 👋
+# Olá, eu sou a Déia! 👋     |     Hello, I´m Déia! 👋
 
 
 ### 💻 Sobre mim | About me
