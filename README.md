@@ -17,7 +17,7 @@
 
 ### 📊 Analytics/Estatísticas
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreiaacs&theme=gradient&langs_count=3&locale=pt-br)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreiaacs&theme=calm&langs_count=3&locale=pt-br)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=andreiaacs&show_icons=true&theme=gradient&hide=contribs,prs&locale=pt-br)
 
