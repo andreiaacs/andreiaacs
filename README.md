@@ -1,10 +1,5 @@
-# Olá, eu sou a Déia! 👋     |     Hello, I´m Déia! 👋
-
-![GitHub last commit](https://img.shields.io/github/last-commit/seu_usuario/seu_repositorio?color=blue)
-![GitHub stars](https://img.shields.io/github/stars/seu_usuario/seu_repositorio?color=green)
-![GitHub license](https://img.shields.io/github/license/seu_usuario/seu_repositorio?color=yellow)
-
-
+# Olá, eu sou a Déia! 👋
+# Hello, I´m Déia! 👋
 
 
 ### 💻 Sobre mim | About me
